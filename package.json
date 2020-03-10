@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^25.1.0"
+  },
+  "name": "js-json-parser",
+  "version": "1.0.0",
+  "description": "a json parser",
+  "main": "json-parse.js",
+  "author": "tn",
+  "license": "MIT"
+}
